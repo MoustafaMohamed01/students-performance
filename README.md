@@ -1,8 +1,2 @@
-# Data Analysis Project
-## dataset source:
-### https://www.kaggle.com/datasets/desalegngeb/students-exam-scores
-## Libraries:
-### numpy
-### pandas
-### matplolib
-### seaborn
+# Student Performans Dataset
+### https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset
