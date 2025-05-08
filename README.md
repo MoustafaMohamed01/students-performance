@@ -1,4 +1,4 @@
-# Student Performans Dataset
+# Student Performance Dataset
 ### https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset
 ```
 student-performance/
